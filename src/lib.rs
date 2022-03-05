@@ -3,7 +3,7 @@
 //! ## Why
 //! I find myself always needing the sleep functionality given by the standard
 //! library, but I always need to search how it works, so I made this to make my
-//! life easier (_not_ that it contributes much).
+//! life easier (_not_ that it contributes much really).
 //! 
 //! ## Usage
 //! In `Cargo.toml`:
