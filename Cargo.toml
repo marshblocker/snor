@@ -1,0 +1,10 @@
+[package]
+name = "snor"
+description = "Wrapper to standard library sleep functionality."
+version = "0.1.0"
+edition = "2021"
+authors = ["Gabriel Kenneth L. Marinas <gabrielkennethmarinas@gmail.com>"]
+keywords = ["sleep", "time"]
+repository = "https://github.com/marshblocker/snor"
+license = "MIT"
+
