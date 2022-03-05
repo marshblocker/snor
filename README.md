@@ -10,7 +10,7 @@ life easier (_not_ that it contributes much).
 In `Cargo.toml`:
 ```
 [dependencies]
-snor = "1.0.0"
+snor = "0.1.1"
 ```
 
 Used in a crate as:

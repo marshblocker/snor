@@ -3,13 +3,13 @@
 //! ## Why
 //! I find myself always needing the sleep functionality given by the standard
 //! library, but I always need to search how it works, so I made this to make my
-//! life easier (_not_ that it contributes much really).
+//! life easier (_not_ that it contributes much).
 //! 
 //! ## Usage
 //! In `Cargo.toml`:
 //! ```
 //! [dependencies]
-//! snor = "1.0.0"
+//! snor = "0.1.1"
 //! ```
 //! 
 //! Used in a crate as:
